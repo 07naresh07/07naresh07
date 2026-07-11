@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naresh Dhami
-- 👀 I am Civil Engineer by profession and I’m interested in Tech
+- 👀 I am BIM Engineer by profession and I’m interested in Tech
 - 📫 How to reach me: ndhami74@gmail.com
 
 <!---
